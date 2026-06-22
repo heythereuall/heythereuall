@@ -2,7 +2,7 @@
 
 ## GitHub Activity Graph
 
-[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heythereuall&theme=github)](https://github.com/heythereuall)
+![Snake animation](https://github.com/heythereuall/heythereuall/blob/output/github-contribution-grid-snake.svg)
 
 ## GitHub Stats
 
