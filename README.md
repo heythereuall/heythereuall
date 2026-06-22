@@ -1,6 +1,6 @@
 # Hi, I'm Aditi!
 
-## GitHub Activity Graph
+## Contribution Activity
 
 ![Snake animation](https://github.com/heythereuall/heythereuall/blob/output/github-contribution-grid-snake.svg)
 
