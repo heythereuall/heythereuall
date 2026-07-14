@@ -14,4 +14,4 @@
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heythereuall&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heythereuall&layout=compact)
