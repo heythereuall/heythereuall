@@ -10,7 +10,7 @@
 -->
 ## Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=heythereuall)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heythereuall&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 💻 Top Languages
 
