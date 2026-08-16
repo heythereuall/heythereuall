@@ -12,6 +12,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heythereuall&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## 💻 Top Languages
+## Top Languages
 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heythereuall&layout=compact&theme=github_dark)
