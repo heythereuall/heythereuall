@@ -2,7 +2,7 @@
 
 ## Contribution Activity
 
-![Snake animation](https://github.com/heythereuall/heythereuall/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/heythereuall/heythereuall/output/github-contribution-grid-snake.svg)
 
 <!--## GitHub Stats
 
